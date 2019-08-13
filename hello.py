@@ -9,4 +9,5 @@
 \pard\pardeftab720\sl260\partightenfactor0
 
 \f0\fs21\fsmilli10800 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 print(\cf4 \strokec4 'hello python & git'\cf2 \strokec2 )}
+\outl0\strokewidth0 \strokec2 print(\cf4 \strokec4 'hello python & git rock'\cf2 \strokec2 )\
+}
